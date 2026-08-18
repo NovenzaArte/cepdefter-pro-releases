@@ -1,8 +1,8 @@
-version: 6.4.0
+version: 6.4.3
 files:
-  - url: CepDefter-Pro-Setup-6.4.0.exe
-    sha512: m7UdOrOTWqQUvvTy6WLqsEDCldhEX6SV9edg7TdKeeottcjRtpihNW3W4cyUQntlnH8zUb1YGWMgywQ/YinqSg==
-    size: 79709052
-path: CepDefter-Pro-Setup-6.4.0.exe
-sha512: m7UdOrOTWqQUvvTy6WLqsEDCldhEX6SV9edg7TdKeeottcjRtpihNW3W4cyUQntlnH8zUb1YGWMgywQ/YinqSg==
-releaseDate: '2026-08-17T18:55:26.957Z'
+  - url: CepDefter-Pro-Setup-6.4.3.exe
+    sha512: NKnkGRMiZjns0ns5tUxuG1Os/NMet9cFuObG5IVHg2C7lbIVvCsqlKEqExo0a8h8dfO1wl5WXlPxFE2+QVRVKQ==
+    size: 79709532
+path: CepDefter-Pro-Setup-6.4.3.exe
+sha512: NKnkGRMiZjns0ns5tUxuG1Os/NMet9cFuObG5IVHg2C7lbIVvCsqlKEqExo0a8h8dfO1wl5WXlPxFE2+QVRVKQ==
+releaseDate: '2026-08-18T06:08:00.883Z'
